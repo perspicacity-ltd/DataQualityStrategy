@@ -5,12 +5,12 @@ A series of documents to facilitate the establishment of a Data Quality strategy
 * The series presents a set of documents as a starter for ten
 * It can be used by organisations starting on their data quality journey and those who already have a data quality function
 * It contains the following components of a data quality strategy:
-** Strategy & Exec Summary
-** Policy & Standard Operating Procedures
-** Technical Specification (including link to reporting suite at https://github.com/perspicacity-ltd/DataQualityReporting)
-** Highlight Report Template
-** Training Materials
-** DQ KiteMark Images
+  * Strategy & Exec Summary
+  * Policy & Standard Operating Procedures
+  * Technical Specification (including link to reporting suite at https://github.com/perspicacity-ltd/DataQualityReporting)
+  * Highlight Report Template
+  * Training Materials
+  * DQ KiteMark Images
 
 ## A little bit about Perspicacity Ltd
 Perspicacity provides decision support consultancy, coaching, & development to the NHS. They are passionate about reducing the cost of software development to the NHS and aspire to create an active community of NHS and commercial organisations. They all share a common goal of improving the quality and efficiency of patient care through better, and more informed, decision making.
